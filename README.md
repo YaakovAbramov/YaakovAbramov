@@ -6,6 +6,6 @@
 ## Tools / Technologies:
 [![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,visualstudio,vscode,linux,windows,dotnet,firebase,sqlite)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaakovAbramov&layout=compact&theme=dark&hide_border=true)
+![YaakovAbramov's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaakovAbramov&show_icons=true&theme=dark&hide_border=true)
 
 ---
